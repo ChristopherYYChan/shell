@@ -38,7 +38,7 @@ mv rawdata data/raw/
 pwd
 
 # 3. List the contents of the ./data/raw directory
-cd data/raw
+cd data/raw/*
 ls
 pwd
 
